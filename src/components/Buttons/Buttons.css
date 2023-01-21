@@ -1,0 +1,11 @@
+.button{
+    transition: all .5s !important;
+}
+.primary-button a:hover{
+    color: var(--color-primary) !important;
+    background-color: #fff !important;
+}
+.secondary-button a:hover{
+    color: var(--color-primary) !important;
+    border-color: #fff !important;
+}
